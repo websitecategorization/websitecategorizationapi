@@ -56,4 +56,4 @@ Example 1 of explainability:
 ![Image1](https://www.websitecategorizationapi.com/product_categorization.png)
 
 Example 2 of explainability: 
-![Image1](https://www.websitecategorizationapi.com/productcategorizationnew1.jpg)
+![Image1](https://www.websitecategorizationapi.com/product_categorization.png)
