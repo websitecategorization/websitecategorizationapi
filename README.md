@@ -1,6 +1,6 @@
 # Website Classification API
 
-Python3 client library for [Website Classification](www.websitecategorizationapi.com). 
+Python3 client library for [Website Classification](https://www.websitecategorizationapi.com). 
 
 Website classification API s a python library that allows to classify websites based on IAB and E-commerce taxonomies. 
 
