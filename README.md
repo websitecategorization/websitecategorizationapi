@@ -199,7 +199,7 @@ Example classification for website www.github.com:
 
 - [Sklearn](https://scikit-learn.org/stable/)
 
-- [URL Categorization Database](https://www.alpha-quantum.com/blog/url-database/url-database/)
+- [URL Categorization Database](https://www.alpha-quantum.com/blog/url-database/url-database/) 
 
 
 
