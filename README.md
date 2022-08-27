@@ -52,7 +52,8 @@ You can find more information about IAB taxonomy at this page: https://www.iab.c
 
 All classifiers provide machine learning interpretability or artificial intelligence explainability (XAI) in the form of words that most contribute to resulting classification. 
 
-Example of explainability: 
+Example 1 of explainability: 
 ![Image1](https://www.websitecategorizationapi.com/product_categorization.png)
 
-
+Example 2 of explainability: 
+![Image1](https://www.websitecategorizationapi.com/productcategorizationnew1.jpg)
