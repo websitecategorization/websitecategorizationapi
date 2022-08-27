@@ -65,3 +65,128 @@ Classification service supports classifications of websites in 30+ major languag
 ## Example classifications
 
 Example classification for website www.github.com:
+```
+{
+  "classification": [
+    {
+      "category": "Technology & Computing",
+      "value": 0.7621352908406164
+    },
+    {
+      "category": "Business and Finance",
+      "value": 0.0785701408756428
+    },
+    {
+      "category": "Video Gaming",
+      "value": 0.06626958968249749
+    },
+    {
+      "category": "Fine Art",
+      "value": 0.017105357862223433
+    },
+    {
+      "category": "Hobbies & Interests",
+      "value": 0.016812511656388394
+    },
+    {
+      "category": "Sports",
+      "value": 0.011396157737341801
+    },
+    {
+      "category": "Home & Garden",
+      "value": 0.009099685741207822
+    },
+    {
+      "category": "Personal Finance",
+      "value": 0.0076400890345109055
+    },
+    {
+      "category": "News and Politics",
+      "value": 0.006692288300928684
+    },
+    {
+      "category": "Careers",
+      "value": 0.0039930258544077606
+    },
+    {
+      "category": "Automotive",
+      "value": 0.0029276292555247764
+    },
+    {
+      "category": "Events and Attractions",
+      "value": 0.0026449624402393084
+    },
+    {
+      "category": "Shopping",
+      "value": 0.0023606962223306537
+    },
+    {
+      "category": "Family and Relationships",
+      "value": 0.0023174171750800186
+    },
+    {
+      "category": "Music and Audio",
+      "value": 0.0020517145262615513
+    },
+    {
+      "category": "Movies",
+      "value": 0.0018936850100483473
+    },
+    {
+      "category": "Travel",
+      "value": 0.0009448942095545797
+    },
+    {
+      "category": "Science",
+      "value": 0.0008432696857311802
+    },
+    {
+      "category": "Pets",
+      "value": 0.0006956402098649299
+    },
+    {
+      "category": "Television",
+      "value": 0.0005261918310662409
+    },
+    {
+      "category": "Real Estate",
+      "value": 0.0005058920662560916
+    },
+    {
+      "category": "Religion & Spirituality",
+      "value": 0.000492253420442475
+    },
+    {
+      "category": "Healthy Living",
+      "value": 0.0004690261931844088
+    },
+    {
+      "category": "Medical Health",
+      "value": 0.0004467617749304944
+    },
+    {
+      "category": "Education",
+      "value": 0.00036333686743226124
+    },
+    {
+      "category": "Food & Drink",
+      "value": 0.0003463620639422737
+    },
+    {
+      "category": "Books and Literature",
+      "value": 0.00027078317064036986
+    },
+    {
+      "category": "Style & Fashion",
+      "value": 0.00011770141998920516
+    },
+    {
+      "category": "Pop Culture",
+      "value": 0.00006764487171529734
+    }
+  ],
+  "html": "29101",
+  "language": "en",
+  "status": 200
+}
+```
