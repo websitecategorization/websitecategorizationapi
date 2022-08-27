@@ -191,10 +191,15 @@ Example classification for website www.github.com:
 }
 ```
 
-## Useful resources for website categorization
+## Useful resources used in development of website categorization
 
+- [Tensorflow](https://www.tensorflow.org/)
 
-[Website categorization](https://medium.com/website-categorization/website-categorization-api-ca6c3e0f6c4d))
+- [Website categorization](https://medium.com/website-categorization/website-categorization-api-ca6c3e0f6c4d)
+
+- [Sklearn](https://scikit-learn.org/stable/)
+
+- [URL Categorization Database](https://www.alpha-quantum.com/blog/url-database/url-database/)
 
 
 
