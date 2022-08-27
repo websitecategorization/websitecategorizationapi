@@ -1,2 +1,2 @@
-# websitecategorizationapi
-Website categrorization API
+# Website Classification API
+Website classification API
