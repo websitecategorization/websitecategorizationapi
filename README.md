@@ -62,3 +62,6 @@ Example 2 of explainability:
 
 Classification service supports classifications of websites in 30+ major languages, including English, French, German, Italian, Spanish, Chinese and others.  
 
+## Example classifications
+
+Example classification for website www.github.com: 
