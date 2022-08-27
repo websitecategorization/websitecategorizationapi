@@ -50,10 +50,15 @@ You can find more information about IAB taxonomy at this page: https://www.iab.c
 
 ## AI explainability
 
-All classifiers provide machine learning interpretability or artificial intelligence explainability (XAI) in the form of words that most contribute to resulting classification. 
+One of the unique features of classifiers is that they provide machine learning interpretability or artificial intelligence explainability (XAI) in the form of words that most contribute to resulting classification. 
 
 Example 1 of explainability: 
 ![Image1](https://www.websitecategorizationapi.com/product_categorization.png)
 
 Example 2 of explainability: 
 ![Image1](https://www.websitecategorizationapi.com/productcategorizationnew1.jpg)
+
+## Support for languages
+
+Classification service supports classifications of websites in 30+ major languages, including English, French, German, Italian, Spanish, Chinese and others.  
+
