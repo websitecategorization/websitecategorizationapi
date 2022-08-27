@@ -30,4 +30,16 @@ classifier_type = 'iab1' # should be set to either iab1 (Tier 1 categorization) 
 print(categorization.get_categorization(url,api_key,classifier_type))
 ```
 
+## How to select classifiers of different taxonomies
+
+Classifier_type should be set to either iab1 (Tier 1 categorization) or iab2 (Tier 2 categorization) for general websites or ecommerce1, ecommerce2 and ecommerce3 for E-commerce or product websites. 
+
+IAB Tier 1 categorization returns probabilities of text being classified as one of 29 possible categories.
+IAB Tier 2 categorization returns probabilities of text being classified as one of 447 possible categories.
+Ecommerce Tier 1 categorization returns probabilities of text being classified as one of 21 possible categories.
+Ecommerce Tier 2 website categorization returns probabilities of text being classified as one of 182 possible categories.
+Ecommerce Tier 3 website categorization returns probabilities of text being classified as one of 1113 possible categories.
+
+## Taxonom
+
 
