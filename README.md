@@ -64,4 +64,4 @@ Classification service supports classifications of websites in 30+ major languag
 
 ## Example classifications
 
-Example classification for website www.github.com:  
+Example classification for website www.github.com:
