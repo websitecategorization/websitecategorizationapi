@@ -15,14 +15,14 @@ Python library requires only requests package.
 
 ## Documentation 
 
-More detailed API documentation is available here: https://www.websitecategorizationapi.com/api.php
+More detailed API documentation is [available here](https://www.websitecategorizationapi.com/api.php). 
 
 ## Examples 
 
 ```
 from websiteclassificationapi import websiteclassificationapi
 
-api_key = 'h2XurA2Rw' # you can get API key from www.websitecategorizationapi.com
+api_key = 'h2XurA' # you can get API key from www.websitecategorizationapi.com
 url = 'www.alpha-quantum.com' # can be set to any valid URL
 classifier_type = 'iab1' # should be set to either iab1 (Tier 1 categorization) or iab2 (Tier 2 categorization) for general websites or ecommerce1, ecommerce2 and ecommerce3 for E-commerce or product websites
 
@@ -61,6 +61,12 @@ Example 2 of explainability:
 ## Support for languages
 
 Classification service supports classifications of websites in 30+ major languages, including English, French, German, Italian, Spanish, Chinese and others.  
+
+## Offline database of categorized domains
+
+We offer offline [URL database](https://www.websitecategorizationapi.com/url_database.php) of millions of categorized domains. It can be used web content filtering, AdTech marketing, cybersecurity, brand safety, contextual targeting. 
+
+It is ideal for those use cases where you require very low latency of requests, which can be achieved with pre-classified websites stored in database. 
 
 ## Example classifications
 
@@ -199,7 +205,9 @@ Example classification for website www.github.com:
 
 - [Sklearn](https://scikit-learn.org/stable/)
 
-- [URL Categorization Database](https://www.alpha-quantum.com/blog/url-database/url-database/) 
+- [Introduction to URL Categorization Database](https://www.alpha-quantum.com/blog/url-database/url-database/) 
+
+- [Top shopify stores](https://www.onlinestores.ai)
 
 
 
